@@ -1,5 +1,5 @@
-<? php
+<?php
   phpinfo();
-  echo "version 3";
+  echo "version 4";
 
 ?>
